@@ -7,6 +7,7 @@ now = datetime.datetime.now().strftime("%Y年%m月%d日 %H:%M")
 posts = [
     {"title": "VS CodeとPythonでサイト作成開始！", "body": "PythonスクリプトからHTMLを自動生成する仕組みを作りました。"},
     {"title": "GitHub Pagesの公開テスト", "body": "完全無料で自分のサイトを持てるようになりました。"},
+    {"title": "初めての記事更新テスト","body":"Pythonを書き換えて記事を増やす練習です！"},
 ]
 
 # 3. 記事データをHTMLパーツに変換
